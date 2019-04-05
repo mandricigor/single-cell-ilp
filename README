@@ -1,0 +1,8 @@
+
+First ILP - runs on smaller matrices. Run it like this:
+
+python mutation_tree.loss.all_solutions.py test1.csv 1
+
+Second ILP - w ILP.
+
+
